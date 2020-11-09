@@ -2,7 +2,8 @@
 ## 02-1841720015-ADRISTI IFTITAH YUNIAR 
 
 ## Screenshot App
-(assets/img1.jpeg)
-(assets/img2.jpeg)
-(assets/img3.jpeg)
+<img src="assets/img1.jpeg" width="50%">
+<img src="assets/img2.jpeg" width="50%">
+<img src="assets/img3.jpeg" width="50%">
+
 
